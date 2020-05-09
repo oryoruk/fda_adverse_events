@@ -1,6 +1,10 @@
 # An Exploratory Analysis of FDA Adverse Events Data
 Case study for AZN
 
+###### All code is in the jupyter notebook with the same name
+
+###### HTML slide deck to come
+
 ###### Prompt:
 
 The U.S. Food and Drug Administration (FDA) regulates over-the-counter and prescription drugs in the United States, including biological therapeutics and generic drugs. This work covers more than just medicines. For example, fluoride toothpaste, antiperspirants, dandruff shampoos and sunscreens are all considered drugs. 
