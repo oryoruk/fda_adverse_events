@@ -1,9 +1,10 @@
 # An Exploratory Analysis of FDA Adverse Events Data
 Case study for AZN
 
-###### All code is in the jupyter notebook with the same name
+###### How to browse:
 
-###### HTML slide deck to come
+All code is in the jupyter notebook with the same name
+HTML slide deck to come
 
 ###### Prompt:
 
