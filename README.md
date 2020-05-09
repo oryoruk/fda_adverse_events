@@ -1,12 +1,12 @@
 # An Exploratory Analysis of FDA Adverse Events Data
 Case study for AZN
 
-###### How to browse:
+## How to Browse:
 
-All code is in the jupyter notebook with the same name
-HTML slide deck to come
+- All code is in the jupyter notebook with the same name
+- HTML slide deck to come
 
-###### Prompt:
+## Prompt:
 
 The U.S. Food and Drug Administration (FDA) regulates over-the-counter and prescription drugs in the United States, including biological therapeutics and generic drugs. This work covers more than just medicines. For example, fluoride toothpaste, antiperspirants, dandruff shampoos and sunscreens are all considered drugs. 
  
@@ -20,7 +20,7 @@ The FDA's database of adverse event reports is made available through a web API 
  
 You should publish your code to your personal github repository and send a link two days before interview.  At interview you should expect to discuss your code, any statistics or visualizations you may have used, limitations of the underlying data, and how your solution could be generalized, extended, and made into a robust product.
 
-###### Things To Do:
+## Things To Do:
 
 - ✅ explore the data in FAERS
 - ✅ code for connecting to the API, querying and fetching results
