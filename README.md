@@ -13,4 +13,22 @@ The FDA's database of adverse event reports is made available through a web API 
 - What are the different adverse events associated with different disease areas? 
 - What drugs tend to be taken together? 
  
-You should publish your code to your personal github repository and send a link two days before interview.  At interview you should expect to discuss your code, any statistics or visualizations you may have used, limitations of the underlying data, and how your solution could be generalized, extended, and made into a robust product.X
+You should publish your code to your personal github repository and send a link two days before interview.  At interview you should expect to discuss your code, any statistics or visualizations you may have used, limitations of the underlying data, and how your solution could be generalized, extended, and made into a robust product.
+
+###### Things To Do:
+
+* ✅ explore the data in FAERS
+* ✅ code for connecting to the API, querying and fetching results
+- ✅ GitHub repo: "fda_adverse_events" or maybe "azn_cs_faers" -> is it too cryptic?
+- ✅ code for reading JSONs
+- ✅ tackle 1st Q
+- ✅ tackle 2nd Q
+- ✅ tackle 3rd Q
+- ⬜️ slidedeck
+    - discuss code
+    - explain stats & visualizations
+    - discuss limitations of the data
+    - explain findings
+    - potential generalization, extension, and further development into a robust product
+- ✅ email the GitHub repo
+- ⬜️ rehearse presentation
