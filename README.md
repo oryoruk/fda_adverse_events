@@ -17,8 +17,8 @@ You should publish your code to your personal github repository and send a link 
 
 ###### Things To Do:
 
-* ✅ explore the data in FAERS
-* ✅ code for connecting to the API, querying and fetching results
+- ✅ explore the data in FAERS
+- ✅ code for connecting to the API, querying and fetching results
 - ✅ GitHub repo: "fda_adverse_events" or maybe "azn_cs_faers" -> is it too cryptic?
 - ✅ code for reading JSONs
 - ✅ tackle 1st Q
