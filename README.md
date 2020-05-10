@@ -2,8 +2,9 @@
 
 ## How to Browse:
 
-- All code is in the jupyter notebook with the same name
-- HTML slide deck to come
+- All code is in the jupyter notebook with the same name is [here](https://github.com/oryoruk/fda_adverse_events/blob/master/(2020-05-07)_FDA_Adverse_Events.ipynb)
+- .PDF slide deck is [here](https://github.com/oryoruk/fda_adverse_events/blob/master/onur_yoruk_presentation_reduced_file_size.pdf)
+
 
 ## Prompt (Case Study for AZN):
 
@@ -28,7 +29,7 @@ You should publish your code to your personal github repository and send a link 
 - ✅ tackle 1st Q
 - ✅ tackle 2nd Q
 - ✅ tackle 3rd Q
-- ⬜️ slidedeck
+- ✅ slidedeck
     - discuss code
     - explain stats & visualizations
     - discuss limitations of the data
